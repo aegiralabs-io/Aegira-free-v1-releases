@@ -16,4 +16,3 @@ Website: https://aegiralabs-io.github.io/aegira-labs-web/
 
 Docs: https://aegiralabs-io.github.io/aegira-docs/
 
-Issues: https://github.com/talatsajafa/aegira-free-v1/issues
